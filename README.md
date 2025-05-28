@@ -1,4 +1,4 @@
-<h2 align="left">Hi  there👋! My name is Gabriel and I'm a junior developer currently studying a **Higher Technician Degree in Multiplatform Application Development (DAM)** from Spain.</h2>
+<h2 align="left">Hi  there👋! My name is Gabriel and I'm a junior developer from Spain.</h2>
 
 ###
 
@@ -31,10 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
 
